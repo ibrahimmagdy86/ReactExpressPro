@@ -1,0 +1,37 @@
+1. what is the world of mobile app needs
+In the world of mobile app development, we’re always looking for 
+a. shorter development cycles, 
+b. quicker time to deployment, 
+c. better app performance.
+
+2. what is Hybrid app frameworks
+an app built with technology many developers already know (like JavaScript, or HTML5 and CSS) that’s wrapped in a container allowing it to run natively on a device.
+Hybrid app frameworks have come a long way to bridge the gap between the performance of a native app and the ease of development of a web app. On the leading edge of this technology is Facebook’s React Native user interface (UI) design framework.
+
+3. why react native
+a.  IT’S GOT IOS AND ANDROID COVERED.
+b.  REUSABLE COMPONENTS ALLOW HYBRID APPS TO RENDER NATIVELY.
+c.  Apply React Native UI components to an existing app’s code—without any rewriting at all.
+d.  IT’S ONE OF THE TOP MOBILE JAVASCRIPT FRAMEWORKS AMONG DEVELOPERS—AND GROWING
+e.  REACT NATIVE IS ALL ABOUT THE UI.
+f.  NATIVE APP DEVELOPMENT IS MUCH MORE EFFICIENT.
+g. IT OFFERS THIRD-PARTY PLUGIN COMPATIBILITY, LESS MEMORY USAGE, AND A SMOOTHER EXPERIENCE.
+
+
+4. Applications developed by react native
+put the applications image
+
+5. Refernces 
+1. http://facebook.github.io/react-native/showcase.html
+2. https://www.upwork.com/hiring/mobile/react-native-hybrid-app-development/
+3. https://codeburst.io/react-native-vs-real-native-apps-ad890986f1f
+
+
+6. compersion between native & React native
+1. UI
+2. CPU
+3. GPU
+4. Memory usage
+
+7.Demo
+  

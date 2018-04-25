@@ -1,0 +1,9 @@
+1. run the following command to setup express generator "npm install -g express-generator"
+2. run the following command to create new project "express react-backend"
+3. run "Yarn" to setup all dependancies 
+4. run "npm start" to start the express project 
+5. run the following command to install the react project creator "npm install -g create-react-app"
+6. run "create-react-app client"
+7. run "yarn start" to start the react App
+
+https://daveceddia.com/create-react-app-express-backend/ 
